@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusinessCard App</string>
+    <string name="your_name">Naman Jain</string>
+    <string name="your_title">Junior Developer</string>
+    <string name="phone_1_234_567_890">Phone: +1 2014238426</string>
+    <string name="email_your_email_example_com">namannj2907@gmail.com</string>
+</resources>
