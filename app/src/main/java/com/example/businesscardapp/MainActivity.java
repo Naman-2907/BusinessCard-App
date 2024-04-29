@@ -22,9 +22,9 @@ public class MainActivity extends AppCompatActivity {
         emailTextView = findViewById(R.id.emailTextView);
 
         // Set your name, title, phone number, and email address
-        nameTextView.setText("Your Name");
-        titleTextView.setText("Your Title");
-        phoneTextView.setText("Phone: +1 234 567 890");
-        emailTextView.setText("Email: your.email@example.com");
+        nameTextView.setText("Naman Jain");
+        titleTextView.setText("Junior Developer");
+        phoneTextView.setText("Phone: +1 2014238426");
+        emailTextView.setText("Email: namannj2907@gmail.com");
     }
 }
